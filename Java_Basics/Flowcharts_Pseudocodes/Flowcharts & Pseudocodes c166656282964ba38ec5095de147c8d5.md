@@ -16,7 +16,7 @@ Flowcharts are diagrams that represent the steps of a process using symbols and 
 
 ![https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image1.png](https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image1.png)
 
-![Untitled](Flowcharts%20&%20Pseudocodes%20c166656282964ba38ec5095de147c8d5/Untitled.png)
+![Untitled](Java_Basics/Flowcharts_Pseudocodes/expamples/Untitled 1.png)
 
 ### What is Pseudocode?
 
