@@ -14,9 +14,8 @@ Flowcharts are diagrams that represent the steps of a process using symbols and 
 
 **Flowchart Symbols:**
 
-![https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image1.png](Java_Basics/Flowcharts_Pseudocodes/expamples/Untitled 1.png)
+![Flowchart Symbols](expamples/Untitled.png)
 
-![Untitled](Java_Basics/Flowcharts_Pseudocodes/expamples/Untitled 1.png)
 
 ### What is Pseudocode?
 
@@ -33,9 +32,9 @@ Pseudocode is a simplified, half-code representation of an algorithm. It is writ
 
 **1. Sum of Two Numbers:**
 
-![Untitled](Flowcharts%20&%20Pseudocodes%20c166656282964ba38ec5095de147c8d5/Untitled%201.png)
+![Sum of Two Numbers](expamples/Untitled%201.png)
 
-![https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image2.png](https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image2.png)
+
 
 Pseudocode:
 
@@ -50,9 +49,9 @@ END
 
 **2. Calculate Simple Interest:**
 
-![Untitled](Flowcharts%20&%20Pseudocodes%20c166656282964ba38ec5095de147c8d5/Untitled%202.png)
+<img src="expamples/Untitled 2.png" alt="Calculate Simple Interest" width="400"/>
 
-![https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image3.png](https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image3.png)
+
 
 Pseudocode:
 
@@ -67,9 +66,8 @@ END
 
 **3. Max of Three Numbers:**
 
-![Untitled](Flowcharts%20&%20Pseudocodes%20c166656282964ba38ec5095de147c8d5/Untitled%203.png)
+![Max of Three Numbers](expamples/Untitled%203.png)
 
-![https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image4.png](https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image4.png)
 
 Pseudocode:
 
@@ -92,9 +90,8 @@ END
 
 **4. Find if a Number is Prime or Not:**
 
-![Untitled](Flowcharts%20&%20Pseudocodes%20c166656282964ba38ec5095de147c8d5/Untitled%204.png)
+![Find if a Number is Prime](expamples/Untitled%204.png)
 
-![https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image5.png](https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image5.png)
 
 Pseudocode:
 
