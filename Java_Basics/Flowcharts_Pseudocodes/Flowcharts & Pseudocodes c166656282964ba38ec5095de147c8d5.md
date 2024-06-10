@@ -14,7 +14,7 @@ Flowcharts are diagrams that represent the steps of a process using symbols and 
 
 **Flowchart Symbols:**
 
-![https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image1.png](https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image1.png)
+![https://github.com/Varshith-Kola/Java-Notes/raw/master/path-to-your-image1.png](Java_Basics/Flowcharts_Pseudocodes/expamples/Untitled 1.png)
 
 ![Untitled](Java_Basics/Flowcharts_Pseudocodes/expamples/Untitled 1.png)
 
