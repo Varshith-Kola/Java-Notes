@@ -14,7 +14,7 @@ Flowcharts are diagrams that represent the steps of a process using symbols and 
 
 **Flowchart Symbols:**
 
-![Flowchart Symbols](expamples/Untitled.png)
+![Flowchart Symbols](examples/Untitled.png)
 
 
 ### What is Pseudocode?
@@ -32,7 +32,7 @@ Pseudocode is a simplified, half-code representation of an algorithm. It is writ
 
 **1. Sum of Two Numbers:**
 
-![Sum of Two Numbers](expamples/Untitled%201.png)
+![Sum of Two Numbers](examples/Untitled%201.png)
 
 
 
@@ -49,7 +49,7 @@ END
 
 **2. Calculate Simple Interest:**
 
-<img src="expamples/Untitled 2.png" alt="Calculate Simple Interest" width="400"/>
+<img src="examples/Untitled 2.png" alt="Calculate Simple Interest" width="400"/>
 
 
 
@@ -66,7 +66,7 @@ END
 
 **3. Max of Three Numbers:**
 
-![Max of Three Numbers](expamples/Untitled%203.png)
+![Max of Three Numbers](examples/Untitled%203.png)
 
 
 Pseudocode:
@@ -90,7 +90,7 @@ END
 
 **4. Find if a Number is Prime or Not:**
 
-![Find if a Number is Prime](expamples/Untitled%204.png)
+![Find if a Number is Prime](examples/Untitled%204.png)
 
 
 Pseudocode:
